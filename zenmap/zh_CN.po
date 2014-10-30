@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Zenmap\n"
 "Report-Msgid-Bugs-To: dev@nmap.org\n"
 "POT-Creation-Date: 2014-09-18 10:09+0800\n"
-"PO-Revision-Date: 2014-09-18 13:23+0800\n"
+"PO-Revision-Date: 2014-10-30 16:30+0800\n"
 "Last-Translator: liushuyu <liushuyu_011@163.com>\n"
 "Language-Team: \n"
 "Language: \n"
@@ -1658,7 +1658,7 @@ msgstr ""
 
 #: share/zenmap/misc/profile_editor.xml:26
 msgid "Window scan"
-msgstr ""
+msgstr "窗口扫描"
 
 #: share/zenmap/misc/profile_editor.xml:27
 msgid "Send probes with the FIN, PSH, and URG flags set, lighting the packets up like a Christmas tree. Xmas tree scan can differentiate \"closed\" and \"open|filtered\" ports on some systems."
@@ -1690,7 +1690,7 @@ msgstr ""
 
 #: share/zenmap/misc/profile_editor.xml:33
 msgid "List scan"
-msgstr ""
+msgstr "列表扫描"
 
 #: share/zenmap/misc/profile_editor.xml:34
 msgid "Skip the port scanning phase. Other phases (host discovery, script scan, traceroute) may still run."
@@ -1698,7 +1698,7 @@ msgstr ""
 
 #: share/zenmap/misc/profile_editor.xml:34
 msgid "No port scan"
-msgstr ""
+msgstr "无端口扫描"
 
 #: share/zenmap/misc/profile_editor.xml:35
 msgid "SCTP is a layer 4 protocol used mostly for telephony related applications.  This is the SCTP equivalent of a TCP SYN stealth scan."
@@ -1718,7 +1718,7 @@ msgstr ""
 
 #: share/zenmap/misc/profile_editor.xml:39
 msgid "Timing template: "
-msgstr ""
+msgstr "时间模板:"
 
 #: share/zenmap/misc/profile_editor.xml:41
 msgid "Set the timing template for IDS evasion."
@@ -2102,7 +2102,7 @@ msgstr ""
 
 #: share/zenmap/misc/profile_editor.xml:99
 msgid "Give up on a host if it has not finished being scanning in this long. Time is in seconds by default, or may be followed by a suffix of 'ms' for milliseconds, 's' for seconds, 'm' for minutes, or 'h' for hours."
-msgstr ""
+msgstr "如果在这么长时间内没有完成某个主机的扫描的话, 就放弃。这个时间默认是以秒计, 或者可以在数字后跟上 'ms' (毫秒), 's' (秒), 'm' (分), 'h' (小时)的后缀。"
 
 #: share/zenmap/misc/profile_editor.xml:99
 msgid "Max time to scan a target"
