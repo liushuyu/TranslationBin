@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zenmap\n"
 "Report-Msgid-Bugs-To: dev@nmap.org\n"
-"POT-Creation-Date: 2014-09-18 10:09+0800\n"
-"PO-Revision-Date: 2014-10-30 16:30+0800\n"
+"POT-Creation-Date: 2014-11-05 12:41+0800\n"
+"PO-Revision-Date: 2014-11-05 12:48+0800\n"
 "Last-Translator: liushuyu <liushuyu_011@163.com>\n"
 "Language-Team: \n"
 "Language: \n"
@@ -1673,6 +1673,10 @@ msgid "Non-TCP scans: "
 msgstr "非 TCP 扫描: "
 
 #: share/zenmap/misc/profile_editor.xml:31
+msgid "Scan UDP ports. UDP is in general slower and more difficult to scan than TCP, and is often ignored by security auditors."
+msgstr "扫描 UDP 端口。UDP 扫描会很慢并且比 TCP 扫描难度更大, 往往为安全审查员忽略。"
+
+#: share/zenmap/misc/profile_editor.xml:31
 msgid "UDP scan"
 msgstr "UDP 扫描"
 
@@ -2180,9 +2184,3 @@ msgstr ""
 msgid "Min delay between probes"
 msgstr "最小探测间隔时间"
 
-#~ msgid ""
-#~ "Scan UDP ports. UDP is in general slower and more difficult to scan than "
-#~ "TCP, and is often ignored by security auditors."
-#~ msgstr ""
-#~ "扫描 UDP 端口。UDP 扫描会很慢并且比 TCP 扫描难度更大, 往往为安全审查员忽"
-#~ "略。"
