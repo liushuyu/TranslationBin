@@ -641,7 +641,7 @@ Do you want to proceed checking without using any of these project files?</sourc
     <message>
         <location filename="mainwindow.cpp" line="585"/>
         <source>Unexpected element</source>
-        <translation type="unfinished"></translation>
+        <translation>意外的元素</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="588"/>
@@ -1099,22 +1099,22 @@ Options:
     <message>
         <location filename="translationhandler.cpp" line="31"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确定</translation>
     </message>
     <message>
         <location filename="translationhandler.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="translationhandler.cpp" line="33"/>
         <source>Close</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="translationhandler.cpp" line="34"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
 </context>
 <context>

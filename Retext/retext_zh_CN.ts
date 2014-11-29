@@ -16,7 +16,7 @@
     <message>
         <location filename="config.py" line="53"/>
         <source>Restore window geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复窗口排列</translation>
     </message>
     <message>
         <location filename="config.py" line="53"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="config.py" line="53"/>
         <source>Open unknown files in plain text mode</source>
-        <translation type="unfinished"></translation>
+        <translation>使用纯文本方式打开未知文件</translation>
     </message>
     <message>
         <location filename="config.py" line="53"/>
@@ -51,17 +51,17 @@
     <message>
         <location filename="config.py" line="53"/>
         <source>Tab key inserts spaces</source>
-        <translation>Tab 键插入的空格数</translation>
+        <translation>Tab 键会插入空格</translation>
     </message>
     <message>
         <location filename="config.py" line="53"/>
         <source>Tabulation width</source>
-        <translation type="unfinished"></translation>
+        <translation>Tab 空格的宽度</translation>
     </message>
     <message>
         <location filename="config.py" line="53"/>
         <source>Display right margin at column</source>
-        <translation type="unfinished"></translation>
+        <translation>显示列的右边缘</translation>
     </message>
     <message>
         <location filename="config.py" line="53"/>
@@ -76,12 +76,12 @@
     <message>
         <location filename="config.py" line="53"/>
         <source>Markdown extensions (comma-separated)</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown 扩展 (以逗号隔开)</translation>
     </message>
     <message>
         <location filename="config.py" line="53"/>
         <source>Color scheme file</source>
-        <translation type="unfinished"></translation>
+        <translation>配色文件</translation>
     </message>
     <message>
         <location filename="config.py" line="53"/>
